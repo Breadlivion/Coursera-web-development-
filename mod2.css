@@ -1,0 +1,65 @@
+/* COLORS & SIZES */
+
+.section1-color {
+    background-color: #d59898;
+    margin-left: auto;
+    margin-top: auto;
+    width: 100px;
+   
+    
+}
+.section2-color {
+    background-color: #c14543;
+    margin-left: auto;
+    margin-top: auto;
+    width: 100px;
+ 
+}
+.section3-color {
+    background-color: #e5d198;
+    margin-left: auto;
+    margin-top: auto;
+    width: 100px;
+  
+    
+} 
+div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 192px;
+    overflow: auto;
+    background-color: #999999;
+    float: left;
+    margin-left: 15px;}
+
+
+
+@media (min-width:992px) {
+
+    
+}
+
+
+
+h1 {
+    font-size: 1.75em;
+    text-align: center;
+}
+h2 {
+    font-size: 1.25em;
+    text-align: center; 
+}
+p {
+    font-size: 0.75em;
+    text-align: center;
+   
+}
+/* FONTS */
+body {
+    font-family: Georgia, Times, serif;   
+}
+.credits {
+    font-family: "Courier New", Courier, monospace;
+}
+/* POSITIONING */
